@@ -1,5 +1,5 @@
-<img src="../KAIROHERRERA97/_4353248a-acf0-4ead-bc06-8321ca72d049.jpg
-" alt="programando en la selva Peruana">
+
+!["programando en la selva Peruana"](KAIROHERRERA97/_4353248a-acf0-4ead-bc06-8321ca72d049.jpg)
 <h1 align="center">Hi 👋, I'm Antony Herrera✌️😎✨</h1>
 <h3 align="center">A passionate developer from Perú</h3>
 
