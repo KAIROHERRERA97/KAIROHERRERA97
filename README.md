@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Antony Herrera✌️😎✨</h1>
 <h3 align="center">A passionate developer from Perú</h3>
-
+<p align="left">Full-stack web developer con experiencia previa en consumo masivo y atención al cliente.  Orientado a personas, servicio al cliente, con facilidad para escuchar activamente y practicar la empatía, buscando constantemente brindar una excelente experiencia del consumidor. Actualmente en búsqueda de nuevos retos profesionales que permitan crecer como desarrollador web aplicando mis habilidades de tecnología.
+</p>
 - 🌱 I’m currently learning **technologies**
 
 - 📫 How to reach me **antonykairoherrera@gmail.com**
